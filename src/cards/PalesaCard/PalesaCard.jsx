@@ -5,7 +5,7 @@ import image from './PalesaHeadShot.jpg';
 
 function PalesaCard() {
   return (
-    <div className="cardContainer">
+    <div className="plaesaCardContainer">
 
         <div className="card">
             <img className="imageContainer" src={image} alt="headshot for display card" />
